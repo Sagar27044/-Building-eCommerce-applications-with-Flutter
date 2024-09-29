@@ -1,0 +1,5 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.0
+  http: ^0.14.0
