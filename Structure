@@ -1,0 +1,14 @@
+main.dart
+models
+ product.dart
+providers
+ cart_provider.dart
+ products_provider.dart
+screens
+ cart_screen.dart
+ home_screen.dart
+ product_detail_screen.dart
+ products_overview_screen.dart
+ widgets
+ badge.dart
+ product_item.dart
